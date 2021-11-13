@@ -1,4 +1,4 @@
-# DataStructure using C
+# DataStructure
 
 ## 1 Data types
         1.1 Primitive types (PRIMARY DATA TYPE)
